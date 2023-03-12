@@ -14,7 +14,8 @@ collaborative_notes:
 eventbrite:           
 ---
 
-<h2>Universita' degli Studi di Torino -- S.U.I.S.S., Scuola Universitaria Interfacoltà in Scienze Strategiche </h2>
+<h2>S.U.I.S.S., Scuola Universitaria Interfacoltà in Scienze Strategiche </h2>
+<h3>Universita' degli Studi di Torino </h3>
 
 <p></p>
 
