@@ -60,12 +60,12 @@ eventbrite:
 <strong>Sistemi operativi</strong>
 
 <ul>
-	<li>Introduzione ai concetti di software libero e open source e ai sistemi operativi GNU/Linux. <a href="https://alesssia.github.io/sistemi_elab_info_I_2012_13/slidedecks/introduzione.pdf">[pdf]</a></li>
-	<li>Cenni sull'installazione e gestione di Virtualbox. <a href="http://wiki.ubuntu-it.org/Virtualizzazione/VirtualBox">[url]</a> </li>
-	<li>Tutorial per l'installazione di Linux Ubuntu. <a href="http://wiki.ubuntu-it.org/Installazione/Grafica">[url]</a> </li>
-	<li>Introduzione a Unix (Fiamingo et al.). <a href="http://www.simioli.it/pdf/IntroUnix.pdf">[url a pdf]</a></li>
-	<li>Wikibooks sul linguaggio C. <a href="http://it.wikibooks.org/wiki/C">[url]</a></li>
-	<li>Controllo dei processi. <a href="https://alesssia.github.io/sistemi_elab_info_I_2012_13/slidedecks/Controllo_processi.pdf">[pdf]</a></li>
+	<li>Introduzione ai concetti di software libero e open source e ai sistemi operativi GNU/Linux<a href="https://alesssia.github.io/sistemi_elab_info_I_2012_13/slidedecks/introduzione.pdf">[pdf]</a></li>
+	<li>Cenni sull'installazione e gestione di Virtualbox <a href="http://wiki.ubuntu-it.org/Virtualizzazione/VirtualBox">[url]</a> </li>
+	<li>Tutorial per l'installazione di Linux Ubuntu <a href="http://wiki.ubuntu-it.org/Installazione/Grafica">[url]</a> </li>
+	<li>Introduzione a Unix (Fiamingo et al.) <a href="http://www.simioli.it/pdf/IntroUnix.pdf">[url a pdf]</a></li>
+	<li>Wikibooks sul linguaggio C <a href="http://it.wikibooks.org/wiki/C">[url]</a></li>
+	<li>Controllo dei processi <a href="https://alesssia.github.io/sistemi_elab_info_I_2012_13/slidedecks/Controllo_processi.pdf">[pdf]</a></li>
 </ul>	
 
 
@@ -84,21 +84,21 @@ eventbrite:
 <h2>Testi delle esercitazioni (prof. Visconti)</h2>
 
 <p>
-<b>Attenzione:</b> il materiale didattico sarà messo a disposizione il giorno seguente l'esercitazione.<br/>
-<b>Attenzione:</b> le soluzioni saranno on-line a partire dal 10 marzo 2013.
+<b>Attenzione:</b> il materiale didattico sarà messo a disposizione il giorno seguente l'esercitazione<br/>
+<b>Attenzione:</b> le soluzioni saranno on-line a partire dal 10 marzo 2013
 </p>
 
 <p>
 <strong>Sistemi operativi</strong>
 
 <ul>
-	<li>Esercizi sui comandi Unix (e Linux). <a href="https://alesssia.github.io/sistemi_elab_info_I_2012_13/slidedecks/Esercizi_comandi_linux.pdf">[pdf]</a> <a href="https://alesssia.github.io/sistemi_elab_info_I_2012_13/slidedecks/Soluzioni_esercizi_comandi_unix.pdf"> [soluzioni]</a></li>
-	<li>Esercizi sul controllo dei processi. <a href="https://alesssia.github.io/sistemi_elab_info_I_2012_13/slidedecks/Esercizi_controllo_processi.pdf">[pdf] </a><a href="https://alesssia.github.io/sistemi_elab_info_I_2012_13/slidedecks/Soluzioni_esercizi_controllo_processi.zip"> [soluzioni]</a></li>
+	<li>Esercizi sui comandi Unix (e Linux) <a href="https://alesssia.github.io/sistemi_elab_info_I_2012_13/slidedecks/Esercizi_comandi_linux.pdf">[pdf]</a> <a href="https://alesssia.github.io/sistemi_elab_info_I_2012_13/slidedecks/Soluzioni_esercizi_comandi_unix.pdf"> [soluzioni]</a></li>
+	<li>Esercizi sul controllo dei processi <a href="https://alesssia.github.io/sistemi_elab_info_I_2012_13/slidedecks/Esercizi_controllo_processi.pdf">[pdf] </a><a href="https://alesssia.github.io/sistemi_elab_info_I_2012_13/slidedecks/Soluzioni_esercizi_controllo_processi.zip"> [soluzioni]</a></li>
 </ul>
 
 </p>
 
-<strong>Sistemi operativi</strong>
+<strong>Reti</strong>
 
 <p>
 <ul>
