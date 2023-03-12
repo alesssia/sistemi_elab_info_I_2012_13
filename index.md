@@ -14,7 +14,11 @@ collaborative_notes:
 eventbrite:           
 ---
 
-<h2 id="teoria">Materiale didattico per la parte di teoria (prof. Aldinucci)</h2>
+<h2>Universita' degli Studi di Torino -- S.U.I.S.S., Scuola Universitaria Interfacoltà in Scienze Strategiche </h2>
+
+<p></p>
+
+<h3 id="teoria">Materiale didattico per la parte di teoria (prof. Aldinucci)</h3>
 
 <p>
 <strong>Sistemi operativi</strong>
@@ -48,7 +52,7 @@ eventbrite:
 
 
 
-<h2>Materiale didattico per la parte di esercitazioni (prof. Visconti)</h2>
+<h3>Materiale didattico per la parte di esercitazioni (prof. Visconti)</h3>
 
 <p>
 <b>Attenzione:</b> il materiale didattico a disposizione è solo una traccia di quanto trattato a lezione e sarà messo a disposizione il giorno prima della lezione.<br/>
@@ -81,7 +85,7 @@ eventbrite:
 
 </p>
 
-<h2>Testi delle esercitazioni (prof. Visconti)</h2>
+<h3>Testi delle esercitazioni (prof. Visconti)</h3>
 
 <p>
 <b>Attenzione:</b> il materiale didattico sarà messo a disposizione il giorno seguente l'esercitazione<br/>
